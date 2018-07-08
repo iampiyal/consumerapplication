@@ -10,22 +10,21 @@ import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
-
-import consumerservice.service.CityService;
+import consumerservice.service.CityServices;
 
 @Controller
-public class ShortestDistanceCalculatorController {
+public class ShortestPathCalculatorController {
 	
 	@Autowired
-	private CityService cityService;
+	private CityServices cityService;
 	
-	private final Logger logger = LoggerFactory.getLogger(ShortestDistanceCalculatorController.class);
+	private final Logger logger = LoggerFactory.getLogger(ShortestPathCalculatorController.class);
 	
 	@RequestMapping(value = "cities/{chosencity}", method = RequestMethod.GET)
 	public String getShortestDistance(Model model, @PathVariable("chosencity") String chosencity) throws IOException  {
 		logger.debug("listAllCities()");
-		model.addAttribute("cities", cityService.getShortestDistance(chosencity));
-		return "cityinfo";
+		model.addAttribute("route", cityService.getShortestDistance(chosencity));
+		return "route";
 
 	}
 

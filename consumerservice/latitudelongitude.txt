@@ -1,0 +1,15 @@
+{"name":"madrid", "latitude":46.3601, "longitude":-71.0589}
+{"name":"rome", "latitude":29.7604, "longitude":-95.3698}
+{"name":"brussels", "latitude":37.3601, "longitude":-122.0589}
+{"name":"paris", "latitude":42.3601, "longitude":-126.0589}
+{"name":"london", "latitude":46.3601, "longitude":-129.0589}
+{"name":"delhi", "latitude":49.3601, "longitude":-130.0589}
+{"name":"oslo", "latitude":52.3601, "longitude":-131.0589}
+{"name":"mumbai", "latitude":57.3601, "longitude":-135.0589}
+{"name":"lisbon", "latitude":60.3601, "longitude":-120.0589}
+{"name":"melbourne", "latitude":-61.3601, "longitude":71.0589}
+{"name":"new york", "latitude":68.3601, "longitude":-140.0589}
+{"name":"dallas", "latitude":56.3601, "longitude":-160.0589}
+{"name":"helsinki", "latitude":40.3601, "longitude":-166.0589}
+{"name":"moscow", "latitude":59.3601, "longitude":-169.0589}
+{"name":"milan", "latitude":71.3601, "longitude":-175.0589}

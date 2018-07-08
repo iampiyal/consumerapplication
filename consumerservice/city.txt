@@ -1,0 +1,17 @@
+{"cityName":"madrid", "destiny":"paris", "startTime":"1000 AM","endTime":"1300 PM"}
+{"cityName":"madrid", "destiny":"london", "startTime":"1000 AM","endTime":"1300 PM"}
+{"cityName":"madrid", "destiny":"delhi", "startTime":"1000 AM","endTime":"1300 PM"}
+{"cityName":"rome", "destiny":"paris", "startTime":"1000 AM","endTime":"1300 PM"}
+{"cityName":"rome", "destiny":"oslo", "startTime":"1000 AM","endTime":"1300 PM"}
+{"cityName":"rome", "destiny":"madrid", "startTime":"1000 AM","endTime":"1300 PM"}
+{"cityName":"brussels", "destiny":"london", "startTime":"1000 AM","endTime":"1300 PM"}
+{"cityName":"brussels", "destiny":"paris", "startTime":"1000 AM","endTime":"1300 PM"}
+{"cityName":"brussels", "destiny":"mumbai", "startTime":"1000 AM","endTime":"1300 PM"}
+{"cityName":"madrid", "destiny":"lisbon", "startTime":"1000 AM","endTime":"1300 PM"}
+{"cityName":"madrid", "destiny":"melbourne", "startTime":"1000 AM","endTime":"1300 PM"}
+{"cityName":"madrid", "destiny":"new york", "startTime":"1000 AM","endTime":"1300 PM"}
+{"cityName":"madrid", "destiny":"dallas", "startTime":"1000 AM","endTime":"1300 PM"}
+{"cityName":"madrid", "destiny":"helsinki", "startTime":"1000 AM","endTime":"1300 PM"}
+{"cityName":"madrid", "destiny":"moscow", "startTime":"1000 AM","endTime":"1300 PM"}
+{"cityName":"madrid", "destiny":"milan", "startTime":"1000 AM","endTime":"1300 PM"}
+{"cityName":"madrid", "destiny":"rome", "startTime":"1000 AM","endTime":"1300 PM"}
